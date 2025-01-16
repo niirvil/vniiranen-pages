@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://vniiranen-pages.pages.dev/sitemap.xml
+Sitemap: https://villeniiranen.fi/sitemap.xml
