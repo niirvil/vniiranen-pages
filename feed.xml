@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ville Niiranen Photo</title>
-    <link href="https://niirvil.github.io/vniiranen-pages/feed.xml" rel="self" />
-    <link href="https://niirvil.github.io/vniiranen-pages" />
+    <link href="https://vniiranen-pages.pages.dev/feed.xml" rel="self" />
+    <link href="https://vniiranen-pages.pages.dev" />
     <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>Ville Niiranen</name>
     </author>
-    <id>https://niirvil.github.io/vniiranen-pages</id>
+    <id>https://vniiranen-pages.pages.dev</id>
 
 </feed>

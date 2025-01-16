@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://niirvil.github.io/vniiranen-pages/sitemap.xml
+Sitemap: https://vniiranen-pages.pages.dev/sitemap.xml
